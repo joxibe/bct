@@ -1,0 +1,5 @@
+1. pip install pyinstaller
+2. abrir terminal en la ruta del archivo .py
+3. pyinstaller --onefile nombredelarchivo
+4. Para la carpeta _internal, se ejecuta el anterior comando
+	sin el --onfile
