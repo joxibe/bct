@@ -6,7 +6,7 @@ import openpyxl
 
 def main():
     input_file = 'bct.xlsx'
-    output_folder = 'C:\\Users\\adminoperaciones\\Downloads\\KOBA\\INFORMES\\2024\\BCT\\ENERO'
+    output_folder = 'C:\\Users\\adminoperaciones\\Downloads\\KOBA\\INFORMES\\2024\\BCT\\FEBRERO'
     # output_folder = 'X:\Escritorio\BCT automatizacion'
 
     df = leer_archivo(input_file)
